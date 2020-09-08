@@ -1,0 +1,1 @@
+La carpeta api es la base de datos y dentro de ella tiene el .sql
